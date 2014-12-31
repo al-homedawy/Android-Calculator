@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GridLayout xmlns:p1="http://schemas.android.com/apk/res/android"
+    p1:minWidth="25px"
+    p1:minHeight="25px"
+    p1:layout_width="match_parent"
+    p1:layout_height="match_parent"
+    p1:id="@+id/gridLayout1"
+    p1:rowCount="4"
+    p1:columnCount="4">
+    <EditText
+        p1:id="@+id/editText"
+        p1:layout_gravity="fill_horizontal"
+        p1:layout_columnSpan="3"/>
+    <Button
+        p1:id="@+id/button17"
+        p1:text="C" />
+    <Button
+        p1:id="@+id/button1"
+        p1:text="0" />
+    <Button
+        p1:id="@+id/button2"
+        p1:text="1" />
+    <Button
+        p1:id="@+id/button3"
+        p1:text="2" />
+    <Button
+        p1:id="@+id/button4"
+        p1:text="+" />
+    <Button
+        p1:id="@+id/button5"
+        p1:text="3" />
+    <Button
+        p1:id="@+id/button6"
+        p1:text="4" />
+    <Button
+        p1:id="@+id/button7"
+        p1:text="5" />
+    <Button
+        p1:id="@+id/button8"
+        p1:text="-" />
+    <Button
+        p1:id="@+id/button9"
+        p1:text="6" />
+    <Button
+        p1:id="@+id/button10"
+        p1:text="7" />
+    <Button
+        p1:id="@+id/button11"
+        p1:text="8" />
+    <Button
+        p1:id="@+id/button12"
+        p1:text="*" />
+    <Button
+        p1:id="@+id/button13"
+        p1:text="9" />
+    <Button
+        p1:id="@+id/button14"
+        p1:text="." />
+    <Button
+        p1:id="@+id/button15"
+        p1:text="=" />
+    <Button
+        p1:id="@+id/button16"
+        p1:text="/" />
+    <Button
+        p1:id="@+id/button18"
+        p1:text="About"
+        p1:layout_gravity = "fill_horizontal"
+        p1:layout_columnSpan = "3" />
+</GridLayout>

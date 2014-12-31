@@ -1,0 +1,12 @@
+C:\Users\Hussain-PC\Documents\Projects\Android-Calculator\Android-Calculator\bin\Release\Android-Calculator.dll
+C:\Users\Hussain-PC\Documents\Projects\Android-Calculator\Android-Calculator\bin\Release\Android-Calculator.pdb
+C:\Users\Hussain-PC\Documents\Projects\Android-Calculator\Android-Calculator\bin\Release\Android_Calculator.Android_Calculator.apk
+C:\Users\Hussain-PC\Documents\Projects\Android-Calculator\Android-Calculator\bin\Release\Android_Calculator.Android_Calculator-Signed.apk
+C:\Users\Hussain-PC\Documents\Projects\Android-Calculator\Android-Calculator\obj\Release\Android-Calculator.dll
+C:\Users\Hussain-PC\Documents\Projects\Android-Calculator\Android-Calculator\obj\Release\Android-Calculator.pdb
+C:\Users\Hussain-PC\Documents\Projects\Android-Calculator\Android-Calculator\obj\Release\android\bin\Android_Calculator.Android_Calculator.apk
+C:\Users\Hussain-PC\Documents\Projects\Android-Calculator\Android-Calculator\obj\Release\res\layout\main.xml
+C:\Users\Hussain-PC\Documents\Projects\Android-Calculator\Android-Calculator\obj\Release\res\values\strings.xml
+C:\Users\Hussain-PC\Documents\Projects\Android-Calculator\Android-Calculator\obj\Release\res\drawable\icon.png
+C:\Users\Hussain-PC\Documents\Projects\Android-Calculator\Android-Calculator\obj\Release\R.cs.flag
+C:\Users\Hussain-PC\Documents\Projects\Android-Calculator\Android-Calculator\obj\Release\uploadflags.txt
